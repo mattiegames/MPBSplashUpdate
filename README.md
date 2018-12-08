@@ -8,8 +8,9 @@
       -For more information on the updater goto: https://github.com/ravibpatel/AutoUpdater.NET
 
   2:  Your program version information is stored in /properties/AssemblyInfo.cs look for this.
-      [assembly: AssemblyVersion("1.0.0.0")]
-      [assembly: AssemblyFileVersion("1.0.0.0")]
+  [assembly: AssemblyVersion("1.0.0.0")]
+  [assembly: AssemblyFileVersion("1.0.0.0")]
+
 
   3: SplashScreen is easy.  /SplashScree, modify it however you see fit.
 
